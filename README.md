@@ -3,6 +3,10 @@
 A modern and responsive calculator built with **HTML, CSS, and Vanilla JavaScript**.
 This project focuses on practicing JavaScript logic, DOM manipulation, event handling, keyboard interaction, and basic arithmetic operations.
 
+
+live Demo -----
+https://devshabir.github.io/Modern-Calculator/
+
 ## ✨ Features
 
 * ➕ Addition
